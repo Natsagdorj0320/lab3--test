@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TheFacebook Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Itu_lab3</h1>
+            <p></p>
+            <nav>
+                <a href="#">home</a> |
+                <a href="#">search</a> |
+                <a href="#">global</a> |
+                <a href="#">social net</a> |
+                <a href="#">invite</a> |
+                <a href="#">faq</a> |
+                <a href="#">logout</a>
+            </nav>
+        </header>
+        <p></p>
+ 
+        <div class="content">
+            <div class="search">
+                <p></p>
+                <table width="130">
+                    <tr bgcolor="lightblue" align="left">
+                        <th><h1></h1></th>
+                    </tr>
+                    <tr>
+                        <td>Search &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;
+                            <mark>GO</mark>
+                        </td>
+                    </tr>
+                </table>  
+                <p></p>  
+                <p></p>
+                <ul>
+                    <li><a href="#">My Profile</a></li>
+                    <li><a href="#">My Groups</a></li>
+                    <li><a href="#">My Friends</a></li>
+                    <li><a href="#">My Messages</a></li>
+                    <li><a href="#">My Privacy</a></li>  
+                </ul>  
+            </div>
+ 
+            <section class="profile">
+                <aside class="sidebar">
+                    <img src="lab3img.jpg" alt="Profile Picture">
+ 
+                        <p></p>
+                        <table bgcolor="black" width="200">
+                            <tr bgcolor="white">
+                                <td>My friends</td>
+                            </tr>
+                            <tr bgcolor="white">
+                                <td>Edit my profile</td>
+                            </tr>
+                            <tr bgcolor="white">
+                                <td>My account freferences</td>
+                            </tr>
+                            <tr bgcolor="white">
+                                <td>My privacy freferences</td>
+                            </tr>
+                        </table>
+                        <p></p>
+ 
+                        <table width="200">
+                            <tr bgcolor="lightblue" align="left">
+                                <th>connection</th>
+                            </tr>
+                            <tr bgcolor="white" align="center">
+                                <td>This is you</td>
+                            </tr>
+                        </table>
+                        <p></p>
+                        <table width="200">
+                            <tr bgcolor="lightblue" align="left">
+                                <th>Bio</th>
+                            </tr>
+                            <tr bgcolor="white" align="center">
+                                <td>Ene bol miniii lab3 aar hiisen zuil</td>
+                            </tr>
+                        </table>
+                        <p></p>
+                        <table width="200">
+                            <tr class="lightblue-bg" align="left">
+                                <th>connection</th>
+                            </tr>
+                            
+                                <th>Other&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[edit]</th>
+                            </tr>
+                            <tr bgcolor="white">
+                                <td>
+                                    <ul>
+                                        <li>Studies at <span class="bold">MUIS</span></li>
+                                        <li>Lives in <b>Ulaanbaatar</b></li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </table>
+                </aside>
+ 
+                <div class="profile-info">
+                    <table width="365">
+                        <tr bgcolor="lightblue" align="left">
+                            <th>
+                                <p></p><h3>Scott Pearson's Profile &nbsp;&nbsp;&nbsp;
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+                                [edit]</h3>
+                            </th>
+                        </tr>
+                    </table>
+                    <div class="account-info">
+                        <h3>Account Info</h3>
+                        <p><strong>Name:</strong> Natsagdorj</p>
+                        <p><strong>Member Since:</strong> october 12, 2003</p>
+                        <p><strong>Last Update:</strong> september 20, 2024</p>
+                        <p><strong>Status:</strong> admin</p>
+                    </div>
+                    <div class="basic-info">
+                        <h3>Basic Info</h3>
+                        <p><strong>Email:</strong> naagii100033@gmail.com</p>
+                        <p><strong>School:</strong> MUIS</p>
+                        <p><strong>Year:</strong> 2003</p>
+                        <p><strong>Concentration:</strong> Information system</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</body>
+</html>
+ 
+ 
