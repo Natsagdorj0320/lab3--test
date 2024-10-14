@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e7ebf2;
+    color: #333;
+}
+ 
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid #ccc;
+}
+ 
+header {
+    background-color: #3b5998;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+ 
+header h1 {
+    margin: 0;
+}
+ 
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 5px;
+}
+ 
+.content {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+ 
+.search {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    flex-basis: 25%;
+}
+ 
+.search ul {
+    list-style-type: none;
+    padding: 0;
+}
+ 
+.search ul li {
+    margin: 10px 0;
+}
+ 
+.search ul li a {
+    text-decoration: none;
+    color: #3b5998;
+}
+ 
+.profile {
+    display: flex;
+    flex-basis: 75%;
+}
+ 
+ 
+.sidebar {
+    width: 200px;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+ 
+.sidebar img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+ 
+ 
+.profile-info {
+    flex-grow: 1;
+    margin-left: 20px;
+}
+ 
+.profile-info h2 {
+    margin-top: 0;
+}
+ 
+.account-info, .basic-info {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
